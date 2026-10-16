@@ -1,0 +1,19 @@
+ARRANQUE DIARIO — proyecto formar-gwcci (CCAD)
+
+1. Hub Control Panel → servidor "formar-gwcci" → Iniciar
+   (Python Científico · Lab)
+
+2. Terminal:
+   source /opt/conda/etc/profile.d/conda.sh
+   conda activate formar-gwcci
+   cd ~/formar-gwcci
+
+3. Notebooks: kernel "Python (formar-gwcci)"
+   Primera celda de cada notebook:
+     import ee
+     ee.Initialize(project="ee-mnolasco")
+
+Notas:
+- La primera importación después de arrancar tarda 1-3 min (normal).
+- No hace falta ee.Authenticate(): las credenciales quedan guardadas.
+- Recrear el entorno: conda env create -f environment.yml

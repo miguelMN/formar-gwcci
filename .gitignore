@@ -1,0 +1,24 @@
+# Datos: no se versionan (pesados y/o con restricciones de uso)
+data/
+*.pkl
+*.tif
+*.tiff
+*.zip
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.gpkg
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Credenciales
+.config/
+*credentials*
+*.json.key
+.env
+notebooks/Untitled*.ipynb

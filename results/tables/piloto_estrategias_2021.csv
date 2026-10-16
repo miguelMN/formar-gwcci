@@ -1,0 +1,16 @@
+departamento,estrategia,imagen,kappa_017,kappa_otsu,corte_otsu
+Río Segundo,mediana feb,mediana feb,0.767,0.758,0.18
+Río Segundo,Chen DOY 40-60,Chen DOY 40-60,0.775,0.764,0.178
+Río Segundo,regla GCC (máx.),2021-02-18 o110,0.776,0.764,0.174
+Río Segundo,regla 2 pasos,2021-02-13 o110,0.763,0.762,0.182
+Río Segundo,mejor fecha (techo),2021-02-18 o110,0.776,0.764,0.174
+Rosario,mediana feb,mediana feb,0.381,0.465,0.156
+Rosario,Chen DOY 40-60,Chen DOY 40-60,0.33,0.455,0.152
+Rosario,regla GCC (máx.),2021-02-05 o67,0.443,0.467,0.164
+Rosario,regla 2 pasos,2021-02-05 o67,0.443,0.467,0.164
+Rosario,mejor fecha (techo),2021-02-05 o67,0.443,0.467,0.164
+25 de Mayo,mediana feb,mediana feb,0.485,0.541,0.164
+25 de Mayo,Chen DOY 40-60,Chen DOY 40-60,0.437,0.556,0.158
+25 de Mayo,regla GCC (máx.),2021-02-17 o24,0.414,0.498,0.162
+25 de Mayo,regla 2 pasos,2021-02-07 o24,0.536,0.527,0.174
+25 de Mayo,mejor fecha (techo),2021-02-07 o24,0.536,0.527,0.174
