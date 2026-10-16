@@ -65,10 +65,8 @@ earthengine authenticate
 
 ## Referencias
 
-- Chen, H. et al. (2023). *A novel Greenness and Water Content Composite Index (GWCCI) for
-  soybean mapping from single remotely sensed multispectral images.*
-- Nolasco, M. et al. (2023). Máscaras anuales de uso agrícola estival a partir de MODIS
-  MOD13Q1. *IEEE*.
+- Chen, H., Li, H., Liu, Z., Zhang, C., Zhang, S., & Atkinson, P. M. (2023). A novel Greenness and Water Content Composite Index (GWCCI) for soybean mapping from single remotely sensed multispectral images. Remote Sensing of Environment, 295, 113679.
+- Nolasco, M., Paccioretti, P., Escobares, C., Buss, E. F., Rubio, J., & Scavuzzo, M. (2023, November). Development of a crop extension product in Argentina using MODIS data at 250m and NDVI thresholds estimated from phenological metrics. In 2023 XX Workshop on Information Processing and Control (RPIC) (pp. 1-8). IEEE.
 - INTA. Mapa Nacional de Cultivos, campañas 2018/19–2024/25.
 
 ## Autor
