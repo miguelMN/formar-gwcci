@@ -22,3 +22,4 @@ __pycache__/
 *.json.key
 .env
 notebooks/Untitled*.ipynb
+results/maps/
